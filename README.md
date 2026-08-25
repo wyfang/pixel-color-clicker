@@ -37,6 +37,6 @@ Windows 版本位于 `Windows11/`，需要 x64 .NET Desktop Runtime 10。GitHub 
 
 应用不连接网络，也不上传屏幕内容。请只在有权自动化的场景中使用；游戏、网站或服务可能禁止自动点击，应遵守其规则。
 
-## 许可
+## 版权说明
 
-原创代码与代码文档依据 [Apache License 2.0](./LICENSE) 发布；个人素材、品牌、游戏内容与第三方内容不在许可范围内。详见 [NOTICE](./NOTICE) 与 [LICENSE_SCOPE.md](./LICENSE_SCOPE.md)。
+原创代码依据 [Apache License 2.0](./LICENSE) 发布。个人品牌和素材不在许可范围内。
